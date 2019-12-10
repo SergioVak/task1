@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe.config
+C:\Users\User\source\repos\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe
+C:\Users\User\source\repos\ChessBoard\ChessBoard\bin\Debug\ChessBoard.pdb
+C:\Users\User\source\repos\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ChessBoard\ChessBoard\obj\Debug\ChessBoard.exe
+C:\Users\User\source\repos\ChessBoard\ChessBoard\obj\Debug\ChessBoard.pdb
+C:\Users\User\source\repos\ChessBoard\ChessBoard\bin\Debug\NLog.config
+C:\Users\User\source\repos\ChessBoard\ChessBoard\bin\Debug\NLog.dll
+C:\Users\User\source\repos\ChessBoard\ChessBoard\bin\Debug\NLog.xml
